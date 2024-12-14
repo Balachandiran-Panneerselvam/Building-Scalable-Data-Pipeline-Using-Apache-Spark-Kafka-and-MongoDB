@@ -43,3 +43,8 @@ Dataset URL: [Amazon Reviews Dataset](https://amazon-reviews-2023.github.io/)
 
 ## **Kafka Setup**
 Download and install kafka in the local environment and start zookeeper, kafka and create kafka topic with partition and replication factor.
+
+---
+
+## **MongoDB Setup**
+Create an account in MongoDB and create database with collection to store the data.
