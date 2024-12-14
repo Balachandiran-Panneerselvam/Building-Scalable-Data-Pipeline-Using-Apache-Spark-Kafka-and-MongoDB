@@ -1,4 +1,4 @@
-# Building a Scalable Data Pipeline for Sentiment Analysis
+# Building a Scalable Data Pipeline for Sentiment Analysis using PySpark, Kafka, MongoDB, Vader Sentiment Analyser
 
 ## **Summary**
 This project implements a scalable data pipeline for real-time sentiment analysis using the Amazon Reviews dataset. It focuses on leveraging big data tools and technologies to process, analyze, and store customer reviews efficiently. The pipeline includes:
